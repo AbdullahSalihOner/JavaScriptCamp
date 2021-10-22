@@ -11,5 +11,6 @@ console.log("<ul>");
 for (let i = 0; i < 3; i++) {
     console.log("<li>"+konurKredileri[1]+"</li>")
     
+
 }
 console.log("</ul>");
